@@ -1,0 +1,42 @@
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\bin\Debug\BinClockC.exe.config
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\bin\Debug\BinClockC.exe
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\bin\Debug\BinClockC.pdb
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\MainWindow.baml
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\MainWindow.g.cs
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\App.g.cs
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC_MarkupCompile.cache
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.g.resources
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.Properties.Resources.resources
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.csproj.GenerateResource.Cache
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.exe
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\BinClockC\obj\Debug\BinClockC.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\bin\Debug\BinClockC.exe.config
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\bin\Debug\BinClockC.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\bin\Debug\BinClockC.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\MainWindow.baml
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\MainWindow.g.cs
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\App.g.cs
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC_MarkupCompile.cache
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.g.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.Properties.Resources.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2013\Projects\BinClockC\BinClockC\obj\Debug\BinClockC.csproj.GenerateResource.Cache
+D:\Users\Eddie\Downloads\Binary_Clock_in_C_23_and_WPF\C#\BinClockC\bin\Debug\BinClockC.exe.config
+D:\Users\Eddie\Downloads\Binary_Clock_in_C_23_and_WPF\C#\BinClockC\obj\Debug\BinClockC.exe
+D:\Users\Eddie\Downloads\Binary_Clock_in_C_23_and_WPF\C#\BinClockC\obj\Debug\BinClockC.pdb
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\bin\Debug\BinClockC.exe.config
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.exe
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.pdb
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\bin\Debug\BinClockC.exe
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\bin\Debug\BinClockC.pdb
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.csprojResolveAssemblyReference.cache
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\MainWindow.baml
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\MainWindow.g.cs
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\App.g.cs
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC_MarkupCompile.cache
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.g.resources
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.Properties.Resources.resources
+D:\projects\git\dev\Binary_Clock_in_C_23_and_WPF\BinClockC\obj\Debug\BinClockC.csproj.GenerateResource.Cache
